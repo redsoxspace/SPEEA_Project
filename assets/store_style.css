@@ -1,0 +1,22 @@
+.store_items h2{
+	text-align: center;
+}
+
+.store_items h4{
+	text-align: center;
+	color: blue;
+}
+
+.clothing{
+	border: 1px solid blue;
+}
+.shirt{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: 35px;
+}
+.jacket{
+	position: relative;
+	left: 35px;
+}

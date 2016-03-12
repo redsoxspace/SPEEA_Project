@@ -1,0 +1,54 @@
+#mi_sub_header {
+	background-image: url(plane4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	padding: 3%;
+}
+
+.navbar-inner {
+	position: relative;
+	background-color: #000000;
+	color: white;
+}
+
+.navbar-inner a:hover {
+	background-color: #333333 !important;
+	color: white;
+}
+
+h1 {
+	margin: 2% 0% 3% 3%;
+}
+
+.locations {
+	margin: 2%;
+	text-align: center;
+}
+
+.body {
+	text-align: center;
+}
+
+.table-striped {
+	width: 75%;
+	border: solid 1px black;
+	border-radius: 20px;
+	margin: 1.5% auto !important;
+  	float: none !important;
+}
+
+.table-striped>tr:nth-child(odd) {
+	background-color: #ffffff;
+}
+
+	table th {
+		text-align: center;
+		background-color: #ff9900;
+	}
+
+	table tr td {
+		padding: 0% 3%;
+		text-align: left;
+	}
+
